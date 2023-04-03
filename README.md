@@ -2,7 +2,7 @@
 
 ### A lightweight JavaScript library for creating particles.
 
-MADE BY VINCENT GARREAU! Hosted here on in my repos so I can play with it!!
+MADE BY VINCENT GARREAU! Hosted here in my repos so I can play with it!!
 
 ------------------------------
 ### `Demo / Generator`
